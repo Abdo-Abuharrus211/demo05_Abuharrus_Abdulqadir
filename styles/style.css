@@ -1,1 +1,26 @@
+body {
+    text-align: center;
+}
 
+.hello-div{
+    margin: 2%;
+}
+
+.logo{
+    width: 20%;
+}
+
+
+
+.card-div{
+    display: inline;
+    margin: 5%;
+}
+
+.mynav{
+    background-color: #A6BB8D;
+}
+
+#footer-section{
+    background-color: #A6BB8D;
+}
